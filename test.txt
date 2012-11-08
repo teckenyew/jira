@@ -5,3 +5,5 @@ TEST-1 JIRA
 testing-another trial
 
 testing again smart commit
+
+TEST-1 #comment what the hell is smart commit?
