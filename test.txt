@@ -8,4 +8,6 @@ testing again smart commit
 
 TEST-1 #comment what the hell is smart commit?
 
-testing again
+testing againjira testing only
+
+jira testing
