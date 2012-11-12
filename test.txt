@@ -10,4 +10,6 @@ TEST-1 #comment what the hell is smart commit?
 
 testing againjira testing only
 
-jira testingjira smart 4:16pm
+jira testing
+
+manual smart commit sync
