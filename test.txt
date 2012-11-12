@@ -12,4 +12,4 @@ testing againjira testing only
 
 jira testing
 
-manual smart commit sync
+manual smart commit syncjira
